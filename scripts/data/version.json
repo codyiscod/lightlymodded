@@ -1,0 +1,671 @@
+[
+    {
+        "game_versions": [
+            "26.3"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "fofTJCem",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.7+mc-26.3",
+        "version_number": "1.4.7",
+        "changelog": "This release:\n- Updates to Minecraft 26.3\n- Improves detection of Tools (Hoe, Axe, Shovel) by checking for the new `block_transformer` Data Component",
+        "changelog_url": None,
+        "date_published": "2026-09-16T01: 37: 08.890216Z",
+        "downloads": 83521,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "5PsqFGbQ",
+                "hashes": {
+                    "sha512": "da03640015d53ef3557a5ffac4abd0f32b12a8562f7612ff590f84a808d7750a809b5688e49768b5e1678a38a89009f03a635363a6b0a4b5fa18aec6eaacceaf",
+                    "sha1": "ca2714e1952ccdcd74b46dc1d834907954fcb0a2"
+                },
+                "url": "https: //cdn.modrinth.com/data/kzwxhsjp/versions/fofTJCem/AccurateBlockPlacement-Reborn-1.4.7%2Bmc-26.3.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.7+mc-26.3.jar",
+                "primary": True,
+                "size": 46029,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            },
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2",
+            "26.2"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "Q49F9gpI",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.6+mc-26.1-26.2",
+        "version_number": "1.4.6",
+        "changelog": "This release:\n- Fixes a bug where Bonemeal could not be used as intended when placeable blocks were held in off-hand.",
+        "changelog_url": None,
+        "date_published": "2026-08-29T02:22:54.520872Z",
+        "downloads": 160413,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "QJ63dLXo",
+                "hashes": {
+                    "sha1": "17a15b7c107523fb4f3b0c23caacbe4e676d66ba",
+                    "sha512": "af33136f68b7917da2462a794b4b0262d105a813e1d176115c15ce8bd80b9b62ffb6b27601223c1a9e1ee047dd101e5276a0eb0c87b7975ac87a692f8be37635"
+                },
+                "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/Q49F9gpI/AccurateBlockPlacement-Reborn-1.4.6%2Bmc-26.1-26.2.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.6+mc-26.1-26.2.jar",
+                "primary": True,
+                "size": 45941,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            },
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "1.21.9",
+            "1.21.10",
+            "1.21.11"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "6RQ6b1gr",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.6+mc-1.21.9-1.21.11",
+        "version_number": "1.4.6",
+        "changelog": "This release:\n- Fixes a bug where Bonemeal could not be used as intended when placeable blocks were held in off-hand.",
+        "changelog_url": None,
+        "date_published": "2026-08-29T02:22:39.953006Z",
+        "downloads": 114459,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "MiV1RmXM",
+                "hashes": {
+                    "sha1": "ffbe315191eff9bce2f103b6df56bd683c855759",
+                    "sha512": "fc0b16b9091a7c29edef5c1e8a6ce5b2b354433d20faa36c595986156cfd231f9ad44798abf15ef4a357d6982a2a2dc7a541a4717ae717b5a7fb8acd7c982fc0"
+                },
+                "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/6RQ6b1gr/AccurateBlockPlacement-Reborn-1.4.6%2Bmc-1.21.9-1.21.11.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.6+mc-1.21.9-1.21.11.jar",
+                "primary": True,
+                "size": 46596,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            },
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "1.21.2",
+            "1.21.3",
+            "1.21.4",
+            "1.21.5",
+            "1.21.6",
+            "1.21.7",
+            "1.21.8"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "6rePTIrA",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.6+mc-1.21.2-1.21.8",
+        "version_number": "1.4.6",
+        "changelog": "This release:\n- Fixes a bug where Bonemeal could not be used as intended when placeable blocks were held in off-hand.",
+        "changelog_url": None,
+        "date_published": "2026-08-29T02:22:25.724416Z",
+        "downloads": 15318,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "d3nTMzfD",
+                "hashes": {
+                    "sha1": "391ef9f6fb92a600057e190886aef7b21c80e350",
+                    "sha512": "11f83c92323efe2418d15aac2703e6b7bd6362a70d3e36aea6af4938b9f84651ee3797cc9b7b214d828321282b96ce2fdc3e8f66772e96274419b96c07235308"
+                },
+                "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/6rePTIrA/AccurateBlockPlacement-Reborn-1.4.6%2Bmc-1.21.2-1.21.8.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.6+mc-1.21.2-1.21.8.jar",
+                "primary": True,
+                "size": 46758,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            },
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "1.20.5",
+            "1.20.6",
+            "1.21",
+            "1.21.1"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "WHecDPZ4",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.6+mc-1.20.5-1.21.1",
+        "version_number": "1.4.6",
+        "changelog": "This release:\n- Fixes a bug where Bonemeal could not be used as intended when placeable blocks were held in off-hand.",
+        "changelog_url": None,
+        "date_published": "2026-08-29T02:22:04.549122Z",
+        "downloads": 26048,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "tCqMibcv",
+                "hashes": {
+                    "sha512": "cb2e1b162b0fb1b446840a98ec9dee527040f23096184d670d55500bd22a9b71746ec45dadcffbe29fb8dea5b838e2906d3d416aa522cca98692e80e2d404104",
+                    "sha1": "b949f47c1b3e83d6b73ddcda8b9b5c595f5001eb"
+                },
+                "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/WHecDPZ4/AccurateBlockPlacement-Reborn-1.4.6%2Bmc-1.20.5-1.21.1.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.6+mc-1.20.5-1.21.1.jar",
+                "primary": True,
+                "size": 46570,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            },
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2",
+            "26.2"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "RjUsYEKZ",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.5+mc-26.1-26.2",
+        "version_number": "1.4.5",
+        "changelog": "This release:\n- Fixes compatibility with other mods modifying Mining Speed, preventing crash/hard incompatibility.",
+        "changelog_url": None,
+        "date_published": "2026-06-29T23:52:44.871061Z",
+        "downloads": 262489,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "DWidztv8",
+                "hashes": {
+                    "sha512": "f3041365111d3495f97a0c1352a54be8c56d901acd6958b31c4449ffd0e27d92d532e8da53c87e61c888737f5a1ac19a06a3d1478df65c70a44f79b00bd51bb4",
+                    "sha1": "c8cb1fd86fc7c6050a021c6288c8430e0f85f35f"
+                },
+                "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/RjUsYEKZ/AccurateBlockPlacement-Reborn-1.4.5%2Bmc-26.1-26.2.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.5+mc-26.1-26.2.jar",
+                "primary": True,
+                "size": 45864,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            },
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "1.21.9",
+            "1.21.10",
+            "1.21.11"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "vBZWtrrZ",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.5+mc-1.21.9-1.21.11",
+        "version_number": "1.4.5",
+        "changelog": "This release:\n- Fixes compatibility with other mods modifying Mining Speed, preventing crash/hard incompatibility.",
+        "changelog_url": None,
+        "date_published": "2026-06-29T23:52:29.403099Z",
+        "downloads": 231145,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "A2phgJBb",
+                "hashes": {
+                    "sha1": "bfdb907e235f8b857fff57452cb24917567236f0",
+                    "sha512": "dbe68244b208cea76b35e35c92070fb371c2280bf3f22717145efce9ff08a9e947ef827f8e8fa3b93b99b754b5b63067310beff997c7c9fc816b1f5701b931fc"
+                },
+                "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/vBZWtrrZ/AccurateBlockPlacement-Reborn-1.4.5%2Bmc-1.21.9-1.21.11.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.5+mc-1.21.9-1.21.11.jar",
+                "primary": True,
+                "size": 46537,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "1.21.2",
+            "1.21.3",
+            "1.21.4",
+            "1.21.5",
+            "1.21.6",
+            "1.21.7",
+            "1.21.8"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "AtTMkHTc",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.5+mc-1.21.2-1.21.8",
+        "version_number": "1.4.5",
+        "changelog": "This release:\n- Fixes compatibility with other mods modifying Mining Speed, preventing crash/hard incompatibility.",
+        "changelog_url": None,
+        "date_published": "2026-06-29T23:52:14.678223Z",
+        "downloads": 29712,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "vDrYrrlB",
+                "hashes": {
+                    "sha1": "0924f56a7d14c32091f421c31e99aae16a1eb45e",
+                    "sha512": "aa827695910595c3f341e7f6fd2d14368eb5dd067946e9f33da0641cc85d6cc980a248e5a658868c1b516dea73a8e3ed0da43f2698da3edf21032af29f1ad359"
+                },
+                "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/AtTMkHTc/AccurateBlockPlacement-Reborn-1.4.5%2Bmc-1.21.2-1.21.8.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.5+mc-1.21.2-1.21.8.jar",
+                "primary": True,
+                "size": 46692,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            },
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "1.20.5",
+            "1.20.6",
+            "1.21",
+            "1.21.1"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "SCKoNjTx",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.5+mc-1.20.5-1.21.1",
+        "version_number": "1.4.5",
+        "changelog": "This release:\n- Fixes compatibility with other mods modifying Mining Speed, preventing crash/hard incompatibility.",
+        "changelog_url": None,
+        "date_published": "2026-06-29T23:51:56.695321Z",
+        "downloads": 54871,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "TQpBBboh",
+                "hashes": {
+                    "sha512": "13ed06fcc43038485fc2355fcfd75c6befca6d1b4e056394c467ab638a2e26bbc3c705f6d56c48efb90494d722734194b18c5aaeaf8146ae44b344cd59c47842",
+                    "sha1": "84a2e5abddc642e683bb6edd9473f733daa84047"
+                },
+                "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/SCKoNjTx/AccurateBlockPlacement-Reborn-1.4.5%2Bmc-1.20.5-1.21.1.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.5+mc-1.20.5-1.21.1.jar",
+                "primary": True,
+                "size": 47015,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            },
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "1.21.9",
+            "1.21.10",
+            "1.21.11"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "8VRSCnlB",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.4+mc-1.21.9-1.21.11",
+        "version_number": "1.4.4",
+        "changelog": "This release:\n\nOfficially backports v1.4.4 to 1.21.9-1.21.11, consisting of:\n- Improves the fix for [Issue #28](https://github.com/KadTheHunter/AccurateBlockPlacement-Reborn/issues/28) "Shulker Boxes do not immediately open when placing and holding right-click"\n  - _A previous fix to prevent accidentally opening containers whilst placing blocks was poorly implemented. Going forward it should be much harder to do so._\n- Cleans up various parts of the code\n- Updates Russian translations (thanks [@chtko](https://github.com/chtko) and [@AnarchByte](https://crowdin.com/profile/anarchbyte)!)\n- Completes Portuguese (Brazilian) translations (thanks [@murilommelo](https://github.com/murilommelo)!)",
+        "changelog_url": None,
+        "date_published": "2026-04-12T03:45:44.565301Z",
+        "downloads": 309867,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "yeicA8Sn",
+                "hashes": {
+                    "sha1": "b6a9e4a26fef4a84a63f65208e54663426bfc3b7",
+                    "sha512": "91e07054994bdf480a08d3fda081f4ec03cbc35b7cda175b7291d69cd8e5a38816aefbb001873c576b0f1d90608baee9f60ab97459b8b05b35237a018531b87c"
+                },
+                "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/8VRSCnlB/AccurateBlockPlacement-Reborn-1.4.4%2Bmc-1.21.9-1.21.11.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.4+mc-1.21.9-1.21.11.jar",
+                "primary": True,
+                "size": 46526,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "1.21.2",
+            "1.21.3",
+            "1.21.4",
+            "1.21.5",
+            "1.21.6",
+            "1.21.7",
+            "1.21.8"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "MbrCRyRJ",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.4+mc-1.21.2-1.21.8",
+        "version_number": "1.4.4",
+        "changelog": "This release:\n\nOfficially backports all fixes and features since v1.3.10, including (but not limited to):\n- Configurable accurate placement types\n- Proper behaviour when holding items in off-hand\n- Full translations for Portuguese (Brazilian), Russian, and Ukrainian",
+        "changelog_url": None,
+        "date_published": "2026-04-12T03:43:16.025878Z",
+        "downloads": 37221,
+        "version_type": "release",
+        "status": "listed",
+        "requested_status": None,
+        "files": [
+            {
+                "id": "IuTXZnEN",
+                "hashes": {
+                    "sha512": "40dff1a04b270164fbc93a5377f38823e26f2e706866087b0a075e2cb4714ad536b8a6e705a3b732db18173dacb44eb8d014e5693bc75a6dbdd27e0dfb9b7856",
+                    "sha1": "063c1807f9c20f16079a81fb017f757d2628ef07"
+                },
+                "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/MbrCRyRJ/AccurateBlockPlacement-Reborn-1.4.4%2Bmc-1.21.2-1.21.8.jar",
+                "filename": "AccurateBlockPlacement-Reborn-1.4.4+mc-1.21.2-1.21.8.jar",
+                "primary": True,
+                "size": 46681,
+                "file_type": None
+            }
+        ],
+        "dependencies": [
+            {
+                "version_id": None,
+                "project_id": "P7dR8mSH",
+                "file_name": None,
+                "dependency_type": "required"
+            },
+            {
+                "version_id": None,
+                "project_id": "mOgUt4GM",
+                "file_name": None,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": None,
+                "project_id": "9s6osm5g",
+                "file_name": None,
+                "dependency_type": "optional"
+            }
+        ]
+    },
+    {
+        "game_versions": [
+            "1.20.5",
+            "1.20.6",
+            "1.21",
+            "1.21.1"
+        ],
+        "loaders": [
+            "fabric"
+        ],
+        "environment": "client_only",
+        "id": "K8jC44Vl",
+        "project_id": "kzwxhsjp",
+        "author_id": "Lpbsx4XO",
+        "featured": False,
+        "name": "Accurate Block Placement Reborn 1.4.4+mc-1.20.5-1.21.1",
+        "version_number": "1.4.4",
+        "changelog": "This release:\n\nOfficially backports all fixes and features since v1.3.0, including (but not limited to):\n- Cloth Config and ModMenu integration\n- Fast Block Breaking\n- Configurable confirmation + types\n- Configurable accurate placement types\n- Proper behaviour when interacting with Scaffolding, Composters, Containers, etc.\n- Full translations for Portuguese (Brazilian), Russian, and Ukrainian\n\nPrevious releases for 1.20.5-1.21.1 had some of these features, but were otherwise one-offs, as I hadn"t been properly backporting anything until now.", "changelog_url": None, "date_published": "2026-04-12T03: 39: 48.850042Z", "downloads": 57746, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "UeSBPs9V", "hashes": {"sha512": "3056d74ec6e8cb2ecc0935e1c2a7ca5ac0ff433077c9e9a9064a91b597f1b27f56dd7529381506fb371ae4b9bf9eac4793c8ff600320467fd238a8b8316a7c76", "sha1": "0617fa51f3e6ca4b08cf34e3090c11fb3ec0b014"}, "url": "https: //cdn.modrinth.com/data/kzwxhsjp/versions/K8jC44Vl/AccurateBlockPlacement-Reborn-1.4.4%2Bmc-1.20.5-1.21.1.jar", "filename": "AccurateBlockPlacement-Reborn-1.4.4+mc-1.20.5-1.21.1.jar", "primary": True, "size": 47004, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["26.1", "26.1.1", "26.1.2", "26.2"], "loaders": ["fabric"], "environment": "client_only", "id": "5xgsYmJv", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.4.4+mc-26.1", "version_number": "1.4.4", "changelog": "This release:\n- Fixes [Issue #55](https://github.com/KadTheHunter/AccurateBlockPlacement-Reborn/issues/55) "Erroneous block placement at low FPS due to changes in Minecraft 26.1"\n- Improves the fix for [Issue #28](https://github.com/KadTheHunter/AccurateBlockPlacement-Reborn/issues/28) "Shulker Boxes do not immediately open when placing and holding right-click"\n  - _A previous fix to prevent accidentally opening containers whilst placing blocks was poorly implemented. Going forward it should be much harder to do so._\n- Cleans up various parts of the code\n- Updates Russian translations (thanks [@chtko](https://github.com/chtko) and [@AnarchByte](https://crowdin.com/profile/anarchbyte)!)\n- Completes Portuguese (Brazilian) translations (thanks [@murilommelo](https://github.com/murilommelo)!)", "changelog_url": None, "date_published": "2026-04-11T02:12:02.399910Z", "downloads": 148082, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "jeH5q4cp", "hashes": {"sha1": "7c421e12caea7a9cd47d071ef59010e91f8e28c3", "sha512": "b8c19aaff4b66288151bef7e1ef13f57f1952129d43021fd6a6eb4e16f457e1be4c4265758231fd28590b9851227e4940318696473145e94b3a1196642423175"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/5xgsYmJv/AccurateBlockPlacement-Reborn-1.4.4%2Bmc-26.1.jar", "filename": "AccurateBlockPlacement-Reborn-1.4.4+mc-26.1.jar", "primary": True, "size": 45844, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["26.1", "26.1.1", "26.1.2", "26.2"], "loaders": ["fabric"], "environment": "client_only", "id": "zJgImJZA", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.4.3+mc-26.1", "version_number": "1.4.3", "changelog": "This release adds support for Minecraft 26.1, and drops support for older versions.", "changelog_url": None, "date_published": "2026-03-26T18:19:54.772566Z", "downloads": 16265, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "1CGRkYLH", "hashes": {"sha512": "d093f1b60c668f14f85209eaf39d5fb7d98cabd03851607483f0d88e57e8f99bd578856c699e0d29dbd21cd0a627cdc250b158b9a67450fb839bee2f09cc0b42", "sha1": "f6b071b7b432668624e78cf52650d9e6092812a0"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/zJgImJZA/AccurateBlockPlacement-Reborn-1.4.3%2Bmc-26.1.jar", "filename": "AccurateBlockPlacement-Reborn-1.4.3+mc-26.1.jar", "primary": True, "size": 46714, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.9", "1.21.10", "1.21.11"], "loaders": ["fabric"], "environment": "client_only", "id": "Kiknx1eX", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.4.2+mc-1.21.9-1.21.11", "version_number": "1.4.2", "changelog": "This release:\n- Fixes all translations failing to load\n- Adds full Ukrainian translations courtesy of @GerBit", "changelog_url": None, "date_published": "2026-02-05T17:35:45.212790Z", "downloads": 252864, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "Swl0rWP5", "hashes": {"sha1": "c58320ab221d35840e24dbb2518b716499e22ce0", "sha512": "a3db1ef189c74902c0736df6912b55ce44f9ba8753ceeba2df10243af13f14c5a8062709dfa235a1509830e7bd03e9c280fb9adbb619a11524c31306f6ffbce4"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/Kiknx1eX/AccurateBlockPlacement-Reborn-1.4.2%2Bmc-1.21.9-1.21.11.jar", "filename": "AccurateBlockPlacement-Reborn-1.4.2+mc-1.21.9-1.21.11.jar", "primary": True, "size": 46196, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}]}, {"game_versions": ["1.21.9", "1.21.10", "1.21.11"], "loaders": ["fabric"], "environment": "client_only", "id": "hliUsDZ0", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.4.1+mc-1.21.9-1.21.11", "version_number": "1.4.1-RECALLED", "changelog": "This update has been recalled due to a critical error resulting in every piece of text failing to translate.\n\n~~This update:~~\n- ~~Allows other "placeable" items to be placed accurately, including Buckets, Armor Stands, Item Frames, and Spawn Eggs~~\n- ~~Adds a new section to the config allowing enabling/disabling accurate placement of additional placeable items~~\n\n~~Additionally, ABP:R is now on [Crowdin](https://crowdin.com/project/accurate-block-placement-reborn)! Whether you\"ve previously translated ABP:R, or want to get started now, have a look at it to help ABP:R expand with more languages.~~", "changelog_url": None, "date_published": "2026-02-05T02:27:05.849110Z", "downloads": 3375, "version_type": "alpha", "status": "listed", "requested_status": None, "files": [{"id": "ON6oc6EF", "hashes": {"sha512": "08aed3a216f67bdabe29753f9591d93ebc9510f43b74f48a1fe8a7ad8eaa2542358a745562abe2e209d14b09dd754cc28fb731afaa1b38edb5dc205a5bbada4a", "sha1": "0138c6d367e61069303cf4dfbc0f7268351457b5"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/hliUsDZ0/AccurateBlockPlacement-Reborn-1.4.1%2Bmc-1.21.9-1.21.11.jar", "filename": "AccurateBlockPlacement-Reborn-1.4.1+mc-1.21.9-1.21.11.jar", "primary": True, "size": 46060, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.9", "1.21.10", "1.21.11"], "loaders": ["fabric"], "environment": "client_only", "id": "PDsV1hlo", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.11+mc-1.21.9-1.21.11", "version_number": "1.3.11", "changelog": "This update:\n\n- Officially adds support for 1.21.11\n- Switches from Yarn to Mojang Mappings in preparation for Deobfuscation / 26.1\n- Updates the Russian translations thanks to [@chtko](https://github.com/chtko) in [#38](https://github.com/KadTheHunter/AccurateBlockPlacement-Reborn/pull/38)\n- Fixes use state of items being reset when a new block was targeted\n  - This primarily applies to Shields, at least in Vanilla. Thanks to [@adefffffffffffffff](https://github.com/adefffffffffffffff) for reporting this in [#43](https://github.com/KadTheHunter/AccurateBlockPlacement-Reborn/issues/43)!", "changelog_url": None, "date_published": "2026-01-24T01:55:05.479889Z", "downloads": 45122, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "MrF7ZruG", "hashes": {"sha1": "2acc7b9cb54ce7a4f95d08c1c61923fbe91d8ac6", "sha512": "80112f08bbdd4fa1c9b3b532862f05c3648cd458e35d1581ffc9a2070bebdacba4594fbf392e48f05623aa7bc732b8d31dabd7ff478ac68a2a68878a8ef9e85d"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/PDsV1hlo/AccurateBlockPlacement-Reborn-1.3.11%2Bmc-1.21.9-1.21.11.jar", "filename": "AccurateBlockPlacement-Reborn-1.3.11+mc-1.21.9-1.21.11.jar", "primary": True, "size": 43713, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.9", "1.21.10", "1.21.11"], "loaders": ["fabric"], "environment": "client_only", "id": "e7s6D9J5", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.10+mc-1.21.9", "version_number": "1.3.10", "changelog": "This update adds support for 1.21.9, 1.21.10, & 1.21.11 and drops support for older versions within the same `.jar` file.\n\nGoing forward, older versions will be supported via separate releases/`.jar` files.", "changelog_url": None, "date_published": "2025-10-03T15:16:03.647915Z", "downloads": 180225, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "CFPV9tz8", "hashes": {"sha1": "ee44d4946ca3e133330415f572f4211ae013744b", "sha512": "bd600388398c5bc39d183bd0feb5f1b92e86aa1cba432bad76d2a3c422c464c9a5af4338bf1435420ed16797e55fbb35c28220ad586e34abfcdd887c4853d6f7"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/e7s6D9J5/accurate-block-placement-1.3.10%2Bmc-1.21.9.jar", "filename": "accurate-block-placement-1.3.10+mc-1.21.9.jar", "primary": True, "size": 44266, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.9-rc1"], "loaders": ["fabric"], "environment": "client_only", "id": "iOIMzP4x", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.10-mc1.21.9-beta", "version_number": "1.3.10-beta", "changelog": "This update adds support for 1.21.9, and (temporarily) drops support for prior versions.\n\nThis is a **BETA** release, so bugs may be present, and Mod Menu/Cloth Config compat is unknown and untested.", "changelog_url": None, "date_published": "2025-09-28T01:03:20.750986Z", "downloads": 1000, "version_type": "beta", "status": "listed", "requested_status": None, "files": [{"id": "4k1a8Z3v", "hashes": {"sha1": "060a8f3cb24e0dfa22cb31f8255692b086b2cd65", "sha512": "6b1db5ab1800e44bd78b1df16825c5e631cdbf95a0b9e53378a25769a6df4ea36dc87fc00a45dc10f721b61c3a87f84e0e8ede72c5b456335bee453cb26b1411"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/iOIMzP4x/accurate-block-placement-1.3.10-mc1.21.2-1.21.9-beta.jar", "filename": "accurate-block-placement-1.3.10-mc1.21.2-1.21.9-beta.jar", "primary": True, "size": 44275, "file_type": None}], "dependencies": []}, {"game_versions": ["1.21.2", "1.21.3", "1.21.4", "1.21.5", "1.21.6", "1.21.7", "1.21.8"], "loaders": ["fabric"], "environment": "client_only", "id": "2NnVKitl", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.9-mc1.21.2-1.21.7", "version_number": "1.3.9", "changelog": "This update fixes Issue #35, allowing Shovels, Hoes and Axes to be used accurately once again.", "changelog_url": None, "date_published": "2025-07-12T00:46:34.033123Z", "downloads": 278628, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "3nxl3BCn", "hashes": {"sha1": "ae3af2c6b9464e849af6474302b3931f6a6fe778", "sha512": "2d52c17d2373d421cc8c96c5bf9f52286ed5ff45bff350bf1c3cffc2c6518591bb55894ea82dbe174db00fc2a81f0f7c85d7539b7d4882e990065daf255dd258"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/2NnVKitl/accurate-block-placement-1.3.9-mc1.21.2-1.21.7.jar", "filename": "accurate-block-placement-1.3.9-mc1.21.2-1.21.7.jar", "primary": True, "size": 44044, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.20.5", "1.20.6", "1.21", "1.21.1"], "loaders": ["fabric"], "environment": "client_only", "id": "dYq10oHY", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.9-mc1.20.5-1.21.1", "version_number": "1.3.9", "changelog": "This update fixes Issue #35, allowing Shovels, Hoes and Axes to be used accurately once again.", "changelog_url": None, "date_published": "2025-07-12T00:46:27.869327Z", "downloads": 248366, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "lt3wDwMa", "hashes": {"sha512": "a2c3d83dca481e548ae24582058258d053842bc583b279c814942b0e56a95c47cc8e6da091fafe7090f0310f49953b21ebb8213224a1a2f527a2d5b0b4c49f05", "sha1": "e50b17cf2f6bd1daf5bab58f75d85751b92d638a"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/dYq10oHY/accurate-block-placement-1.3.9-mc1.20.5-1.21.1.jar", "filename": "accurate-block-placement-1.3.9-mc1.20.5-1.21.1.jar", "primary": True, "size": 44047, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.2", "1.21.3", "1.21.4", "1.21.5", "1.21.6", "1.21.7"], "loaders": ["fabric"], "environment": "client_only", "id": "qVQF1hnF", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.8-mc1.21.2-1.21.6", "version_number": "1.3.8", "changelog": "This release officially updates the mod to Minecraft 1.21.7", "changelog_url": None, "date_published": "2025-07-02T23:29:16.086593Z", "downloads": 13862, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "j8ifPihL", "hashes": {"sha512": "39940ddf226a1fce2ba0fa185cb12feed95d313e07230bb22961c7eb41cda496f242c017724fab690ea3cfae56e5145cfe9936568a976f5ba8a8e8ee102ede34", "sha1": "288d1b3dc64ab041f1b8b0bf86b883e1d7624654"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/qVQF1hnF/accurate-block-placement-1.3.8-mc1.21.2-1.21.6.jar", "filename": "accurate-block-placement-1.3.8-mc1.21.2-1.21.6.jar", "primary": True, "size": 43978, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}]}, {"game_versions": ["1.21.2", "1.21.3", "1.21.4", "1.21.5", "1.21.6"], "loaders": ["fabric"], "environment": "client_only", "id": "SW6j2nrN", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.7-mc1.21.2-1.21.6", "version_number": "1.3.7", "changelog": "This release officially adds support for 1.21.6", "changelog_url": None, "date_published": "2025-06-18T14:25:57.779002Z", "downloads": 21069, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "HORIXyg5", "hashes": {"sha1": "7bb50434972123d75dc0190f6cff4cc92db60da7", "sha512": "90e208a8dd366f7b84206e83e8adb9d13ddd226dc15c889e07e4876f9512757512ae0caae98fae3b0daf5c03ca2e9a7330c7bedb5c4fe02bb347fd47e51a5f5a"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/SW6j2nrN/accurate-block-placement-1.3.7-mc1.21.2-1.21.6.jar", "filename": "accurate-block-placement-1.3.7-mc1.21.2-1.21.6.jar", "primary": True, "size": 43977, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}]}, {"game_versions": ["1.21.2", "1.21.3", "1.21.4", "1.21.5"], "loaders": ["fabric"], "environment": "client_only", "id": "V4JwCGBA", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.6-mc1.21.2-1.21.5", "version_number": "1.3.6", "changelog": "This release:\n- Updates the Brazilian-Portuguese translations (Thanks @seriousfreezing!)", "changelog_url": None, "date_published": "2025-06-13T03:01:32.982043Z", "downloads": 9357, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "AKlMO9JN", "hashes": {"sha1": "7bc0f7062836d126d167a901adcc27e585e7a9b5", "sha512": "474f0604adae17f564ed817cbe8d36da12da7c54694b1e1b3fa851ce3a203c44ed1352753c3dc22c0232434a5c2898ca7b9b5826522f84a4550ccf5abfd46555"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/V4JwCGBA/accurate-block-placement-1.3.6-mc1.21.2-1.21.5.jar", "filename": "accurate-block-placement-1.3.6-mc1.21.2-1.21.5.jar", "primary": True, "size": 43975, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.20.5", "1.20.6", "1.21", "1.21.1"], "loaders": ["fabric"], "environment": "client_only", "id": "KdkM4oOM", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.6-mc1.20.5-1.21.1", "version_number": "1.3.6", "changelog": "This release:\n- Updates the Brazilian-Portuguese translations (Thanks @seriousfreezing!)", "changelog_url": None, "date_published": "2025-06-13T03:00:37.971694Z", "downloads": 24780, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "XfsYEGet", "hashes": {"sha512": "833ae90a5950824d10603e98eca51fc2f5d7b6d5a1309f5601960ca2d1a26fb7625dcab9a276ccd74ed82b6837097873bf110527d11da59c21116abc6bfa1727", "sha1": "7bda41a09332691be1048e797cb95cb3f3116533"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/KdkM4oOM/accurate-block-placement-1.3.6-mc1.20.5-1.21.1.jar", "filename": "accurate-block-placement-1.3.6-mc1.20.5-1.21.1.jar", "primary": True, "size": 43981, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}]}, {"game_versions": ["1.21.2", "1.21.3", "1.21.4", "1.21.5"], "loaders": ["fabric"], "environment": "client_only", "id": "3qDDO0E0", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.5-mc1.21.2-1.21.5", "version_number": "1.3.5", "changelog": "This release:\n\n- Allows switching between blocks while Accurate Block Placement is enabled without requiring a fresh click, fixing compatibility with several mods.\n- Updates the Russian translations (Thanks @chtko!)", "changelog_url": None, "date_published": "2025-05-31T13:45:49.067133Z", "downloads": 15874, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "UuVdepeT", "hashes": {"sha512": "aa8fbe585c63227ac213383d18b672bf81d40d5c84bc14b1fd2c5a178861673eb6554d2109411698b6e9fab0aa254dd177862ded41542f56b11ddb625826f27b", "sha1": "73b2b7f6b1bd04298646f01a58f1ef757228b7d4"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/3qDDO0E0/accurate-block-placement-1.3.5-mc1.21.2-1.21.5.jar", "filename": "accurate-block-placement-1.3.5-mc1.21.2-1.21.5.jar", "primary": True, "size": 43979, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.20.5", "1.20.6", "1.21", "1.21.1"], "loaders": ["fabric"], "environment": "client_only", "id": "rZD7nMHD", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.5-mc1.20.5-1.21.1", "version_number": "1.3.5", "changelog": "This release:\n\n- Allows switching between blocks while Accurate Block Placement is enabled without requiring a fresh click, fixing compatibility with several mods.\n- Updates the Russian translations (Thanks @chtko!)", "changelog_url": None, "date_published": "2025-05-31T13:45:33.933729Z", "downloads": 12613, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "RIAU5Q2C", "hashes": {"sha1": "e0e5494b51bcbd10eefde4e6d6bc9d887f475bfa", "sha512": "5c11ae8aa4ed482fd046197d29f1eae2a732a44309fb9dd4c3b7caef6e2a3147b4cb914186f92e890b6d9569eb1bc3201f2e357350bb06be4e74a3f2405d5210"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/rZD7nMHD/accurate-block-placement-1.3.5-mc1.20.5-1.21.1.jar", "filename": "accurate-block-placement-1.3.5-mc1.20.5-1.21.1.jar", "primary": True, "size": 43983, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.2", "1.21.3", "1.21.4", "1.21.5"], "loaders": ["fabric"], "environment": "client_only", "id": "jOA6PJfL", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.4", "version_number": "1.3.4", "changelog": "This release fixes a couple of bugs:\n\n- Plantable food items (Carrots, Potatoes, Sweet Berries) can now be planted accurately\n- Placeable items in the off-hand slot will now place accurately even when a non-placeable item is in the main-hand slot", "changelog_url": None, "date_published": "2025-04-12T18:29:03.629103Z", "downloads": 62017, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "UnWOz0Uo", "hashes": {"sha512": "3f18d2560b6edafe82b38260cd7443a2083db06ebc6b4a9e37b79dd1ff3b2adc41563516ae22137e70a930a6578841a2d53d2d99ef18824f2cbad27ea0bd085f", "sha1": "653b6e27a0d803210794fc50c47f723de1b6f041"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/jOA6PJfL/accurate-block-placement-1.3.4.jar", "filename": "accurate-block-placement-1.3.4.jar", "primary": True, "size": 43657, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.2", "1.21.3", "1.21.4", "1.21.5"], "loaders": ["fabric"], "environment": "client_only", "id": "XNGXCdDd", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.3", "version_number": "1.3.3", "changelog": "This release (fully) updates to Minecraft 1.21.5.", "changelog_url": None, "date_published": "2025-03-26T23:29:08.527714Z", "downloads": 15593, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "tIrA2Zp4", "hashes": {"sha512": "f12af219fb484e80a8169339490d437b01b9b9c5caa9df2d52d6a9f141e5bf90a275d3b3e327a23bca9415cac6d92c6f5a004c2e59155400dcbc75b1cfdb4877", "sha1": "620801dac2e103b71adf4f78fdba701a2475fb70"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/XNGXCdDd/accurate-block-placement-1.3.3.jar", "filename": "accurate-block-placement-1.3.3.jar", "primary": True, "size": 43738, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.2", "1.21.3", "1.21.4", "1.21.5"], "loaders": ["fabric"], "environment": "client_only", "id": "1RxUavA5", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.3-beta", "version_number": "1.3.3-beta", "changelog": "This release adds support for Minecraft 1.21.5\n\nDue (at the time of writing) to Mod Menu only having a release candidate for 1.21.5, and Cloth Config having nothing, this is marked as a beta. \n\nUsing Cloth Config for 1.21.4 with this release **will** result in a crash when attempting to access the config screen via Mod Menu.\n\nThis release may work when Mod Menu and Cloth Config update, or it may not; A stable release will be provided at that time.", "changelog_url": None, "date_published": "2025-03-26T00:32:12.644728Z", "downloads": 1593, "version_type": "beta", "status": "listed", "requested_status": None, "files": [{"id": "PsIgRk6f", "hashes": {"sha1": "a83fcfef8a7c2fe9d86e7e42df4b9d93354d2f39", "sha512": "2deddd612965679e75641e32067d7dfc313587dc077fcf7db463608873657868a860d01512e0501d3944353c8b371fc287f0f90a23a6509a6270e70aafc0ae7a"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/1RxUavA5/accurate-block-placement-1.3.3-beta.jar", "filename": "accurate-block-placement-1.3.3-beta.jar", "primary": True, "size": 43741, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.2", "1.21.3", "1.21.4"], "loaders": ["fabric"], "environment": "client_only", "id": "UwdTIZpc", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.2 for 1.21.2-1.21.4", "version_number": "1.3.2+mc1.21.2-1.21.4", "changelog": "This release:\n\n- Fixes the vanilla behavior of scaffolding being inaccessible when Accurate Block Placement is enabled ([#19](https://github.com/hschwar/AccurateBlockPlacement-Reborn/issues/19))\n- Fixes Shulker Boxes vanilla behavior when right-click is held being inaccessible when Accurate Block Placement is enabled ([#28](https://github.com/hschwar/AccurateBlockPlacement-Reborn/issues/28))\n  - This may be tweaked in future updates, as this fix has introduced an inconsistently replicated issue with unwanted opening of shulker boxes and other storage blocks when mass placing them.\n- Adds two new options in the config "Confirmation" and "Confirmation Type"\n  - "Confirmation" toggles whether a confirmation message will be sent when a feature is toggled on or off\n  - "Confirmation Type" determines where the confirmation is sent (Chat or HUD)\n- Improved the wording and colorization of the confirmation message\n- Credited LordEnder-Kitty to the contributor list for their suggestion of and work on the confirmation options ([#27](https://github.com/hschwar/AccurateBlockPlacement-Reborn/issues/27))", "changelog_url": None, "date_published": "2025-01-20T15:21:21.732190Z", "downloads": 50770, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "DktSJPYX", "hashes": {"sha512": "690d1a26a11730f5eab89c8c1c8ee47c05694171f837e2400a179657b0cab37df5c45753a120b723c9aee90120adb425cd36fd066a1d80525839eff637dae11a", "sha1": "32500ffa0e09d0bed1e17ae0b23cc8c3ae8818c5"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/UwdTIZpc/accurate-block-placement-1.3.2%2Bmc1.21.2-1.21.4.jar", "filename": "accurate-block-placement-1.3.2+mc1.21.2-1.21.4.jar", "primary": True, "size": 43758, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21", "1.21.1"], "loaders": ["fabric"], "environment": "client_only", "id": "G4XFi1Ev", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": False, "name": "Accurate Block Placement Reborn 1.3.2 for 1.21-1.21.1", "version_number": "1.3.2+mc1.21-1.21.1", "changelog": "This release:\n\n- Fixes the vanilla behavior of scaffolding being inaccessible when Accurate Block Placement is enabled ([#19](https://github.com/hschwar/AccurateBlockPlacement-Reborn/issues/19))\n- Fixes Shulker Boxes vanilla behavior when right-click is held being inaccessible when Accurate Block Placement is enabled ([#28](https://github.com/hschwar/AccurateBlockPlacement-Reborn/issues/28))\n  - This may be tweaked in future updates, as this fix has introduced an inconsistently replicated issue with unwanted opening of shulker boxes and other storage blocks when mass placing them.\n- Adds two new options in the config "Confirmation" and "Confirmation Type"\n  - "Confirmation" toggles whether a confirmation message will be sent when a feature is toggled on or off\n  - "Confirmation Type" determines where the confirmation is sent (Chat or HUD)\n- Improved the wording and colorization of the confirmation message\n- Credited LordEnder-Kitty to the contributor list for their suggestion of and work on the confirmation options ([#27](https://github.com/hschwar/AccurateBlockPlacement-Reborn/issues/27))", "changelog_url": None, "date_published": "2025-01-20T15:20:36.067839Z", "downloads": 211321, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "DQ1UUzno", "hashes": {"sha1": "ea8a2626475cc4cb1605caa03e6689ed6105ea91", "sha512": "316516e58798d43ac6d12adecda03c91a1dd38246243c3e0d660fd2cc4574a41e1b282701d1844542531166b1a7f7045c57d4495b4d9875ed0a1af6cfa16df19"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/G4XFi1Ev/accurate-block-placement-1.3.2%2Bmc1.21-1.21.1.jar", "filename": "accurate-block-placement-1.3.2+mc1.21-1.21.1.jar", "primary": True, "size": 43760, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.3", "1.21.4"], "loaders": ["fabric"], "environment": "client_only", "id": "RCdqZMrl", "project_id": "kzwxhsjp", "author_id": "Lpbsx4XO", "featured": True, "name": "Accurate Block Placement Reborn 1.3.1", "version_number": "1.3.1", "changelog": "This release fixes the Portuguese (Brazilian) translation file not loading correctly.", "changelog_url": None, "date_published": "2024-12-18T01:05:28.341090Z", "downloads": 13643, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "uFzIt7WG", "hashes": {"sha512": "8eba764026b218a2e1e4f4df1281a35f2be72a59faf01b0a42075e361367d58bd5ddad8f113c2eff601f0c0c922ca98c66fe48098f560f3016260451ae8fa012", "sha1": "817617b75ec667a7e507df4d56193040ad5148af"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/RCdqZMrl/accurate-block-placement-1.3.1.jar", "filename": "accurate-block-placement-1.3.1.jar", "primary": True, "size": 41881, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}]}, {"game_versions": ["1.21.3", "1.21.4"], "loaders": ["fabric"], "environment": "client_only", "id": "IybAujg6", "project_id": "kzwxhsjp", "author_id": "nguH8LkU", "featured": False, "name": "Accurate Block Placement Reborn 1.3.0", "version_number": "1.3.0", "changelog": "- Bug fixes\n- **New Feature:** Fast Block Breaking\n- Better configurability with Cloth Config & Mod Menu", "changelog_url": None, "date_published": "2024-12-12T06:12:10.839617Z", "downloads": 2812, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "SUCbMo95", "hashes": {"sha512": "4ee8ddff7e09501a8861696f0925b2dcc016f4cc70b6d70787aa81fe50871cfac5b403d7644e7fe5f81ab9a4ecf8627326ec2ce71e2860e114a4d72bac301e2d", "sha1": "b259e3b2b91fcab5718ee0a95b0416fdc921f363"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/IybAujg6/accurate-block-placement-1.3.0.jar", "filename": "accurate-block-placement-1.3.0.jar", "primary": True, "size": 41886, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "mOgUt4GM", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "9s6osm5g", "file_name": None, "dependency_type": "optional"}, {"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}]}, {"game_versions": ["1.20.5", "1.20.6", "1.21", "1.21.1"], "loaders": ["fabric"], "environment": "client_only", "id": "kUD9HB0J", "project_id": "kzwxhsjp", "author_id": "nguH8LkU", "featured": True, "name": "Accurate Block Placement Reborn 1.2.6", "version_number": "1.2.6", "changelog": "- Fixed CutThrough incompatibility\n- Italian translations", "changelog_url": None, "date_published": "2024-12-12T06:07:46.924606Z", "downloads": 35093, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "OwQ7N4bA", "hashes": {"sha1": "007c06b84059801a015a651a49fa9d16129a5281", "sha512": "5516a51e82e46e288d7d12a1c7578dba827e1b7fe5cb254a98dd7a21c056276136f31b3b03ae809cbc214aa252d00a4689380a6641a34bec77b6d7f35fd8027d"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/kUD9HB0J/accurate-block-placement-1.2.6.jar", "filename": "accurate-block-placement-1.2.6.jar", "primary": True, "size": 35188, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}]}, {"game_versions": ["1.20.5", "1.20.6", "1.21", "1.21.1"], "loaders": ["fabric"], "environment": "client_only", "id": "Pji2XG3Q", "project_id": "kzwxhsjp", "author_id": "nguH8LkU", "featured": False, "name": "Accurate Block Placement Reborn 1.2.5", "version_number": "1.2.5", "changelog": "Now for 1.20.5-1.21.1", "changelog_url": None, "date_published": "2024-07-03T05:51:07.424413Z", "downloads": 148264, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "qmrTLPcw", "hashes": {"sha512": "30c54ba561955dc552281eecec43660ae30ff473d5d68872159930ac3b8cb5fb4cfcd1af7bbf92e51dfcb4dd00997b28d3cce04164e9f5f298e7d17213f68f67", "sha1": "1da46c92fc91cddb0c23c2df611390974e168a83"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/Pji2XG3Q/accurate-block-placement-1.2.5.jar", "filename": "accurate-block-placement-1.2.5.jar", "primary": True, "size": 34832, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}]}, {"game_versions": ["1.19", "1.19.1", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4"], "loaders": ["fabric"], "environment": "client_only", "id": "dHimNl5m", "project_id": "kzwxhsjp", "author_id": "nguH8LkU", "featured": True, "name": "Accurate Block Placement Reborn 1.2.1", "version_number": "1.2.1", "changelog": "Now 1.20.4,\nalong with existing support for 1.19-1.20.2\n\nProbably works for 1.20.3 as well", "changelog_url": None, "date_published": "2023-12-11T03:47:22.468236Z", "downloads": 533206, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "5O09QpnS", "hashes": {"sha512": "7fdf6613c9d4c9e39b3dbfc8e1daf91badb43608cf289f3131fbce46eb8d742c3b429b289f94a3373664cc40860f8f25ef86b6b65ef6b1b5b8f2f2231a229827", "sha1": "9b489f991db45c6168658ae4d8018bc735595bdb"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/dHimNl5m/accurate-block-placement-1.2.1.jar", "filename": "accurate-block-placement-1.2.1.jar", "primary": True, "size": 35838, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}]}, {"game_versions": ["1.19", "1.19.1", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1", "1.20.2"], "loaders": ["fabric"], "environment": "client_only", "id": "Jthlq5FP", "project_id": "kzwxhsjp", "author_id": "nguH8LkU", "featured": False, "name": "Accurate Block Placement Reborn 1.2", "version_number": "1.2", "changelog": "Now for 1.19-1.20.2", "changelog_url": None, "date_published": "2023-09-21T23:00:10.814387Z", "downloads": 153382, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "HoOMBvm7", "hashes": {"sha1": "7a0489cbc60d1089e2a39e2331ae605573baf839", "sha512": "66b37c04574634f3f1ee812430f2594230fec18a2bfcddb6e172d19b59b97f62193d6610588fb491d1714063b908285d7060aa429324071b455eb982f01d1f4a"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/Jthlq5FP/accurate-block-placement-1.2.jar", "filename": "accurate-block-placement-1.2.jar", "primary": True, "size": 35834, "file_type": None}], "dependencies": [{"version_id": None, "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}]}, {"game_versions": ["1.19", "1.19.1", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1"], "loaders": ["fabric"], "environment": "client_only", "id": "iSmJRMh0", "project_id": "kzwxhsjp", "author_id": "nguH8LkU", "featured": False, "name": "Accurate Block Placement Reborn 1.0.17", "version_number": "1.0.17", "changelog": "Adds support for Minecraft 1.19-1.20.1", "changelog_url": None, "date_published": "2023-07-08T13:25:21.448078Z", "downloads": 29591, "version_type": "release", "status": "listed", "requested_status": None, "files": [{"id": "16EE2u5b", "hashes": {"sha1": "aacb517042d8e982dcba3735b9a84c2994376e07", "sha512": "0bdbb972951e56019e7f102e6491e8b2ebaf46e2c5314fe867c58e60bb334ece4d8e5603149dc5e30efb9b0fb036708caf8cd46b1c35d679300d54a3fbc42a6c"}, "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/iSmJRMh0/accurate-block-placement-1.0.17.jar", "filename": "accurate-block-placement-1.0.17.jar", "primary": True, "size": 22615, "file_type": None}], "dependencies": [{"version_id": "XheZ9iGK", "project_id": "P7dR8mSH", "file_name": None, "dependency_type": "required"}]}]

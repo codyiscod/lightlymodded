@@ -1,0 +1,702 @@
+[
+    {
+        "name": "Accurate Block Placement",
+        "url": "https://modrinth.com/mod/kzwxhsjp",
+        "version": "1.4.7+mc-26.3"
+    },
+    {
+        "name": "Adaptive Slot Cursor",
+        "url": "https://modrinth.com/mod/FTdXYa1j",
+        "version": "2.0"
+    },
+    {
+        "name": "Advancements Reloaded",
+        "url": "https://modrinth.com/mod/tLuRLqpa",
+        "version": "0.15.0"
+    },
+    {
+        "name": "Allow Portal GUIs",
+        "url": "https://modrinth.com/mod/UVHxud51",
+        "version": "1.2.0"
+    },
+    {
+        "name": "Alternate Current",
+        "url": "https://modrinth.com/mod/r0v8vy1s",
+        "version": "1.9.0"
+    },
+    {
+        "name": "AppleSkin",
+        "url": "https://modrinth.com/mod/EsAfCjCV",
+        "version": "3.0.10+mc26.3"
+    },
+    {
+        "name": "Architectury",
+        "url": "https://modrinth.com/mod/lhGA9TYQ",
+        "version": "22.0.5"
+    },
+    {
+        "name": "Async Logger",
+        "url": "https://modrinth.com/mod/zvNzKfGF",
+        "version": "2.2.2+26.1.2-fabric"
+    },
+    {
+        "name": "AsyncParticles",
+        "url": "https://modrinth.com/mod/c3onkd5k",
+        "version": "26.3.2.0"
+    },
+    {
+        "name": "Auto GUI Scale",
+        "url": "https://modrinth.com/mod/Un1BZCMR",
+        "version": "1.2.3"
+    },
+    {
+        "name": "BBE",
+        "url": "https://modrinth.com/mod/ONZm0H7Y",
+        "version": "1.3.9+mc26.3"
+    },
+    {
+        "name": "BadOptimizations",
+        "url": "https://modrinth.com/mod/g96Z4WVZ",
+        "version": "2.4.1"
+    },
+    {
+        "name": "Balm",
+        "url": "https://modrinth.com/mod/MBAkmtvl",
+        "version": "26.3.0.3"
+    },
+    {
+        "name": "Better Add Server",
+        "url": "https://modrinth.com/mod/s4DtR8IM",
+        "version": "1.2.6"
+    },
+    {
+        "name": "Better Biome Blend",
+        "url": "https://modrinth.com/mod/Rs6c7WyL",
+        "version": "1.4.0"
+    },
+    {
+        "name": "Better Highlighting",
+        "url": "https://modrinth.com/mod/rjsZCeTS",
+        "version": "0.3.1"
+    },
+    {
+        "name": "Better Mount HUD",
+        "url": "https://modrinth.com/mod/kqJFAPU9",
+        "version": "1.3.1"
+    },
+    {
+        "name": "Better Saved Hotbars Forked",
+        "url": "https://modrinth.com/mod/GdSOHJIu",
+        "version": "1.4.0-26.3"
+    },
+    {
+        "name": "Better Selection",
+        "url": "https://modrinth.com/mod/xIpcAYJL",
+        "version": "1.9.1"
+    },
+    {
+        "name": "Better Statistics Screen",
+        "url": "https://modrinth.com/mod/n6PXGAoM",
+        "version": "5.6.0-beta.2+neoforge-26.3"
+    },
+    {
+        "name": "Better Tab",
+        "url": "https://modrinth.com/mod/LS20Llnw",
+        "version": "2.2.3"
+    },
+    {
+        "name": "Better loading screen",
+        "url": "https://modrinth.com/mod/AFr7Fm0h",
+        "version": "1.4.3+26.3"
+    },
+    {
+        "name": "BetterCommandBlockUI",
+        "url": "https://modrinth.com/mod/8iQcgjQ2",
+        "version": "0.5.4"
+    },
+    {
+        "name": "Black Bar Concealer",
+        "url": "https://modrinth.com/mod/OpQzuo63",
+        "version": "1.0.10"
+    },
+    {
+        "name": "Boat Item View",
+        "url": "https://modrinth.com/mod/BdKIyOLe",
+        "version": "0.0.10"
+    },
+    {
+        "name": "Bobby",
+        "url": "https://modrinth.com/mod/M08ruV16",
+        "version": "5.2.16+mc26.3"
+    },
+    {
+        "name": "Borderless Fullscreen",
+        "url": "https://modrinth.com/mod/UIexcMP1",
+        "version": "2.5.1"
+    },
+    {
+        "name": "Button Fix",
+        "url": "https://modrinth.com/mod/lCEmlD3q",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Cape Provider",
+        "url": "https://modrinth.com/mod/orXAsira",
+        "version": "5.6.1"
+    },
+    {
+        "name": "Chat Heads",
+        "url": "https://modrinth.com/mod/Wb5oqrBJ",
+        "version": "1.3.2"
+    },
+    {
+        "name": "Cherished Worlds",
+        "url": "https://modrinth.com/mod/3azQ6p0W",
+        "version": "18.0.0+26.3"
+    },
+    {
+        "name": "Client Tweaks",
+        "url": "https://modrinth.com/mod/vPNqo58Q",
+        "version": "26.3.0.1"
+    },
+    {
+        "name": "Cloth Config v26.3",
+        "url": "https://modrinth.com/mod/9s6osm5g",
+        "version": "26.3.159"
+    },
+    {
+        "name": "Collective",
+        "url": "https://modrinth.com/mod/e0M1UDsY",
+        "version": "8.43"
+    },
+    {
+        "name": "Concurrent Chunk Management Engine",
+        "url": "https://modrinth.com/mod/VSNURh3q",
+        "version": "0.4.2-alpha.0.90+26.3"
+    },
+    {
+        "name": "Continuity",
+        "url": "https://modrinth.com/mod/1IjD5062",
+        "version": "3.0.1+26.3"
+    },
+    {
+        "name": "Controlify",
+        "url": "https://modrinth.com/mod/DOUdJVEm",
+        "version": "3.5.3+mc26.3"
+    },
+    {
+        "name": "Controlling",
+        "url": "https://modrinth.com/mod/xv94TkTM",
+        "version": "26.3.4"
+    },
+    {
+        "name": "Cozy Tips",
+        "url": "https://modrinth.com/mod/TieRrqE5",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Craft Config Library",
+        "url": "https://modrinth.com/mod/pqvUbuK1",
+        "version": "1.1.13"
+    },
+    {
+        "name": "Crash Assistant",
+        "url": "https://modrinth.com/mod/ix1qq8Ux",
+        "version": "1.11.14"
+    },
+    {
+        "name": "Creative Crafting Menus",
+        "url": "https://modrinth.com/mod/YgMgdcqs",
+        "version": "0.1.3+26.3"
+    },
+    {
+        "name": "Dark Loading Screen",
+        "url": "https://modrinth.com/mod/h3XWIuzM",
+        "version": "1.6.20"
+    },
+    {
+        "name": "Debugify",
+        "url": "https://modrinth.com/mod/QwxR6Gcd",
+        "version": "26.3.0.0"
+    },
+    {
+        "name": "Durability Tooltip",
+        "url": "https://modrinth.com/mod/smUP7V3r",
+        "version": "1.2.0+a"
+    },
+    {
+        "name": "Dynamic FPS",
+        "url": "https://modrinth.com/mod/LQ3K71Q1",
+        "version": "3.11.10"
+    },
+    {
+        "name": "Entity Model Features",
+        "url": "https://modrinth.com/mod/4I1XuqiY",
+        "version": "3.3.11"
+    },
+    {
+        "name": "Entity Texture Features",
+        "url": "https://modrinth.com/mod/BVzZfTc1",
+        "version": "7.2.5"
+    },
+    {
+        "name": "EntityCulling",
+        "url": "https://modrinth.com/mod/NNAgCjsB",
+        "version": "1.11.3"
+    },
+    {
+        "name": "Fabric API",
+        "url": "https://modrinth.com/mod/P7dR8mSH",
+        "version": "0.162.0+26.3"
+    },
+    {
+        "name": "Fabric Language Kotlin",
+        "url": "https://modrinth.com/mod/Ha28R6CL",
+        "version": "1.14.2+kotlin.2.4.21"
+    },
+    {
+        "name": "FancyToasts",
+        "url": "https://modrinth.com/mod/eUziWqPC",
+        "version": "1.5.1"
+    },
+    {
+        "name": "Fast IP Ping",
+        "url": "https://modrinth.com/mod/9mtu0sUO",
+        "version": "1.0.12"
+    },
+    {
+        "name": "Fast Noise",
+        "url": "https://modrinth.com/mod/OnlVIpq5",
+        "version": "1.1.1+26.3"
+    },
+    {
+        "name": "FastQuit",
+        "url": "https://modrinth.com/mod/x1hIzbuY",
+        "version": "3.1.5+mc26.2"
+    },
+    {
+        "name": "FerriteCore",
+        "url": "https://modrinth.com/mod/uXXizFIs",
+        "version": "9.0.0"
+    },
+    {
+        "name": "FixMCStats",
+        "url": "https://modrinth.com/mod/SQKipbkd",
+        "version": "2.5.0"
+    },
+    {
+        "name": "Forge Config API Port",
+        "url": "https://modrinth.com/mod/ohNO6lps",
+        "version": "26.3.1"
+    },
+    {
+        "name": "FuelInfo",
+        "url": "https://modrinth.com/mod/J1ueTDcI",
+        "version": "3.0.0+26.2"
+    },
+    {
+        "name": "Full Bundle Tooltip",
+        "url": "https://modrinth.com/mod/VhT3vFnZ",
+        "version": "1.2+26.3"
+    },
+    {
+        "name": "Fzzy Config",
+        "url": "https://modrinth.com/mod/hYykXjDp",
+        "version": "0.7.7+fix3+26.3"
+    },
+    {
+        "name": "Hide Experimental Warning",
+        "url": "https://modrinth.com/mod/Rm4OOdHd",
+        "version": "1.3"
+    },
+    {
+        "name": "ImmediatelyFast",
+        "url": "https://modrinth.com/mod/5ZwdcRci",
+        "version": "1.17.1+26.3"
+    },
+    {
+        "name": "InvMove",
+        "url": "https://modrinth.com/mod/REfW2AEX",
+        "version": "0.9.6"
+    },
+    {
+        "name": "Inventory Item Groups",
+        "url": "https://modrinth.com/mod/adriDDJt",
+        "version": "1.5.3-fabric+26.3"
+    },
+    {
+        "name": "Inventory Management",
+        "url": "https://modrinth.com/mod/F7wXag4i",
+        "version": "2.0.3+26.3"
+    },
+    {
+        "name": "Iris",
+        "url": "https://modrinth.com/mod/YL57xq9U",
+        "version": "1.11.7+mc26.3"
+    },
+    {
+        "name": "IrisSearch",
+        "url": "https://modrinth.com/mod/bkAgg84v",
+        "version": "1.8.2-fabric"
+    },
+    {
+        "name": "Ixeris",
+        "url": "https://modrinth.com/mod/p8RJPJIC",
+        "version": "4.6.8+26.3-fabric"
+    },
+    {
+        "name": "Ji AFK Cinematic",
+        "url": "https://modrinth.com/mod/NYveE6yC",
+        "version": "2.3.2"
+    },
+    {
+        "name": "LANLock",
+        "url": "https://modrinth.com/mod/MslL8bqz",
+        "version": "1.3.7"
+    },
+    {
+        "name": "LambDynamicLights",
+        "url": "https://modrinth.com/mod/yBW8D80W",
+        "version": "4.13.0+26.3"
+    },
+    {
+        "name": "Language Reload",
+        "url": "https://modrinth.com/mod/uLbm7CG6",
+        "version": "1.7.8+26.3"
+    },
+    {
+        "name": "LibJF",
+        "url": "https://modrinth.com/mod/WKwQAwke",
+        "version": "26.3.1"
+    },
+    {
+        "name": "Lithium",
+        "url": "https://modrinth.com/mod/gvQqBUqZ",
+        "version": "0.26.2+mc26.3"
+    },
+    {
+        "name": "Locator Heads",
+        "url": "https://modrinth.com/mod/L4pt5egz",
+        "version": "2.5.0"
+    },
+    {
+        "name": "Mod Loading Screen",
+        "url": "https://modrinth.com/mod/xAGJ6rQS",
+        "version": "1.0.5"
+    },
+    {
+        "name": "Mod Menu",
+        "url": "https://modrinth.com/mod/mOgUt4GM",
+        "version": "21.0.0"
+    },
+    {
+        "name": "ModernFix",
+        "url": "https://modrinth.com/mod/TjSm1wrD",
+        "version": "5.27.20-build.2"
+    },
+    {
+        "name": "More Culling",
+        "url": "https://modrinth.com/mod/51shyZVL",
+        "version": "1.9.0"
+    },
+    {
+        "name": "Mouse Tweaks",
+        "url": "https://modrinth.com/mod/aC3cM3Vq",
+        "version": "2.31"
+    },
+    {
+        "name": "NBT Autocomplete",
+        "url": "https://modrinth.com/mod/UR0ocuEt",
+        "version": "2.1+mc26.3"
+    },
+    {
+        "name": "NetherPortalFix",
+        "url": "https://modrinth.com/mod/nPZr02ET",
+        "version": "26.3.0.1"
+    },
+    {
+        "name": "No Chat Reports",
+        "url": "https://modrinth.com/mod/qQyHxfxd",
+        "version": "26.3-v2.21.0"
+    },
+    {
+        "name": "No Chat Restrictions",
+        "url": "https://modrinth.com/mod/z440MEwJ",
+        "version": "Fabric-MC26.3-v1.3.0"
+    },
+    {
+        "name": "NotEnoughAnimations",
+        "url": "https://modrinth.com/mod/MPCX6s5C",
+        "version": "1.12.6"
+    },
+    {
+        "name": "Nvidium",
+        "url": "https://modrinth.com/mod/SfMw2IZN",
+        "version": "0.4.4-beta7-26.3"
+    },
+    {
+        "name": "OptiGUI",
+        "url": "https://modrinth.com/mod/JuksLGBQ",
+        "version": "2.3.0-beta.10+26.3"
+    },
+    {
+        "name": "Packed Packs",
+        "url": "https://modrinth.com/mod/8Pq6Exn2",
+        "version": "2.3.1+26.3"
+    },
+    {
+        "name": "Particle Core",
+        "url": "https://modrinth.com/mod/RSeLon5O",
+        "version": "0.3.3+fix1+26.2"
+    },
+    {
+        "name": "Peek",
+        "url": "https://modrinth.com/mod/TnOXNf5e",
+        "version": "1.6.0+26.3"
+    },
+    {
+        "name": "Pixelshot",
+        "url": "https://modrinth.com/mod/MUoQGQVU",
+        "version": "26.3.0"
+    },
+    {
+        "name": "Placeholder API",
+        "url": "https://modrinth.com/mod/eXts2L7r",
+        "version": "3.2.0+26.3"
+    },
+    {
+        "name": "Plane Advancements",
+        "url": "https://modrinth.com/mod/V1smGrYI",
+        "version": "1.6-mc26.3"
+    },
+    {
+        "name": "Polytone",
+        "url": "https://modrinth.com/mod/3qAYkBMB",
+        "version": "26.3-6.8.6"
+    },
+    {
+        "name": "Puzzles Lib",
+        "url": "https://modrinth.com/mod/QAGBst4M",
+        "version": "26.3.13"
+    },
+    {
+        "name": "Raised",
+        "url": "https://modrinth.com/mod/nCQRBEiR",
+        "version": "6.0.2"
+    },
+    {
+        "name": "Reese's Sodium Options",
+        "url": "https://modrinth.com/mod/Bh37bMuy",
+        "version": "2.2.5+mc26.3"
+    },
+    {
+        "name": "Remove Reloading Screen",
+        "url": "https://modrinth.com/mod/ZP7xHXtw",
+        "version": "5.2.8+mc.26.3"
+    },
+    {
+        "name": "Resource Pack Options",
+        "url": "https://modrinth.com/mod/TiF5QWZY",
+        "version": "26.3.0"
+    },
+    {
+        "name": "Resourcefulconfig",
+        "url": "https://modrinth.com/mod/M1953qlQ",
+        "version": "6.0.2"
+    },
+    {
+        "name": "Resourcify",
+        "url": "https://modrinth.com/mod/RLzHAoZe",
+        "version": "1.8.7"
+    },
+    {
+        "name": "Respawning Animals",
+        "url": "https://modrinth.com/mod/WnwcSeWc",
+        "version": "26.3.0"
+    },
+    {
+        "name": "ScalableLux",
+        "url": "https://modrinth.com/mod/Ps1zyz6x",
+        "version": "0.3.0-alpha.0.6+26.3"
+    },
+    {
+        "name": "Screenshot Gallery",
+        "url": "https://modrinth.com/mod/IhVCYgCW",
+        "version": "2.1"
+    },
+    {
+        "name": "Scribble",
+        "url": "https://modrinth.com/mod/yXAvIk0x",
+        "version": "2.1.0"
+    },
+    {
+        "name": "SeamlessChunks",
+        "url": "https://modrinth.com/mod/MslYld7M",
+        "version": "0.1.0-beta.7"
+    },
+    {
+        "name": "Searchables",
+        "url": "https://modrinth.com/mod/fuuu3xnx",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Server Sleep",
+        "url": "https://modrinth.com/mod/Cw8IlnGM",
+        "version": "3"
+    },
+    {
+        "name": "ServerCore",
+        "url": "https://modrinth.com/mod/4WWQxlQP",
+        "version": "1.5.20+26.3"
+    },
+    {
+        "name": "Show Operator Tab",
+        "url": "https://modrinth.com/mod/XBMKDD5C",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Simple Death Improvements",
+        "url": "https://modrinth.com/mod/2JFsuD70",
+        "version": "1.6.0"
+    },
+    {
+        "name": "Smooth Menu",
+        "url": "https://modrinth.com/mod/yreFRx7Z",
+        "version": "26.3-1.0.0"
+    },
+    {
+        "name": "Smooth Scrolling",
+        "url": "https://modrinth.com/mod/CllP7wW0",
+        "version": "3.0.1"
+    },
+    {
+        "name": "Sodium",
+        "url": "https://modrinth.com/mod/AANobbMI",
+        "version": "0.9.2+mc26.3"
+    },
+    {
+        "name": "Sodium Extra",
+        "url": "https://modrinth.com/mod/PtjYWJkn",
+        "version": "0.9.4+mc26.3"
+    },
+    {
+        "name": "Sodium Shadowy Path Blocks",
+        "url": "https://modrinth.com/mod/EIa1eiMm",
+        "version": "8.0.0"
+    },
+    {
+        "name": "Status Effect Bars",
+        "url": "https://modrinth.com/mod/x02cBj9Y",
+        "version": "1.0.12"
+    },
+    {
+        "name": "Structure Layout Optimizer",
+        "url": "https://modrinth.com/mod/ayPU0OHc",
+        "version": "1.1.4+26.3-fabric"
+    },
+    {
+        "name": "SuperMartijn642's Config Library",
+        "url": "https://modrinth.com/mod/LN9BxssP",
+        "version": "1.1.8+a"
+    },
+    {
+        "name": "Symbol Chat",
+        "url": "https://modrinth.com/mod/NKvLVQMc",
+        "version": "26.3-1.4.3"
+    },
+    {
+        "name": "TCDCommons API",
+        "url": "https://modrinth.com/mod/Eldc1g37",
+        "version": "5.6.0-beta.2+neoforge-26.3"
+    },
+    {
+        "name": "TT20",
+        "url": "https://modrinth.com/mod/YS3ZignI",
+        "version": "0.8.5"
+    },
+    {
+        "name": "Trade Cycling",
+        "url": "https://modrinth.com/mod/qpPoAL6m",
+        "version": "1.0.22+26.3"
+    },
+    {
+        "name": "Very Many Players",
+        "url": "https://modrinth.com/mod/wnEe9KBa",
+        "version": "0.2.0+beta.7.238+26.3"
+    },
+    {
+        "name": "ViaFabricPlus",
+        "url": "https://modrinth.com/mod/rIC2XJV4",
+        "version": "5.1.1"
+    },
+    {
+        "name": "Visible Barriers",
+        "url": "https://modrinth.com/mod/ajdfGxGU",
+        "version": "2.0.29"
+    },
+    {
+        "name": "Visible Traders",
+        "url": "https://modrinth.com/mod/AhllI99f",
+        "version": "2.5.1"
+    },
+    {
+        "name": "Visual Health",
+        "url": "https://modrinth.com/mod/X01iuqRJ",
+        "version": "26.3-2.0.5"
+    },
+    {
+        "name": "WaveyCapes",
+        "url": "https://modrinth.com/mod/kYuIpRLv",
+        "version": "1.11.2"
+    },
+    {
+        "name": "World Play Time Reborn",
+        "url": "https://modrinth.com/mod/NDcygmHf",
+        "version": "1.2.6"
+    },
+    {
+        "name": "Worldthreader",
+        "url": "https://modrinth.com/mod/LwH5rYyd",
+        "version": "3.2.0"
+    },
+    {
+        "name": "YOSBR",
+        "url": "https://modrinth.com/mod/WwbubTsV",
+        "version": "0.1.2"
+    },
+    {
+        "name": "YetAnotherConfigLib",
+        "url": "https://modrinth.com/mod/1eAoo2KR",
+        "version": "3.9.7+26.3-fabric"
+    },
+    {
+        "name": "ZConfig",
+        "url": "https://modrinth.com/mod/4qmvXRB9",
+        "version": "1.0.0+26.x"
+    },
+    {
+        "name": "Zoomify",
+        "url": "https://modrinth.com/mod/w7ThoJFB",
+        "version": "2.17.0+mc26.3"
+    },
+    {
+        "name": "e4mc",
+        "url": "https://modrinth.com/mod/qANg5Jrr",
+        "version": "6.2.3+modern"
+    },
+    {
+        "name": "quick-pack",
+        "url": "https://modrinth.com/mod/pSISfJ4O",
+        "version": "1.5.1"
+    },
+    {
+        "name": "uku's Armor HUD",
+        "url": "https://modrinth.com/mod/wF189hn9",
+        "version": "0.14.0+mc26.3"
+    },
+    {
+        "name": "ukulib",
+        "url": "https://modrinth.com/mod/Y8uFrUil",
+        "version": "2.2.0+26.3"
+    }
+]
